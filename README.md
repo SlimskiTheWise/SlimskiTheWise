@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=SlimskiTheWise&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=SlimskiTheWise&fontSize=50)
 
 ### Hi 👋
 I'm a junior software engineer in Seoul
