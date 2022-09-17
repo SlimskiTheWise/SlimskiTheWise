@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=SlimskiTheWise&fontSize=50)
 
 ### Hi 👋
-I'm a junior software engineer in Seoul
+I'm a junior web developer in Seoul
 
 ---
 
